@@ -14,7 +14,7 @@ https://projecteuler.net/archives
 
 Study websites
 'sentdex Practical Machine Learning Tutorial with Python' series on Youtube
-Python+ ML detailed explanations + examples: https://stackabuse.com/tag/python/
+[Python+ ML detailed explanations + examples](https://stackabuse.com/tag/python/)
 Gradient Descent and Cost Function- https://www.youtube.com/watch?v=XdM6ER7zTLk , https://www.youtube.com/watch?v=vsWrXfO3wWw 
 Neural Networks: https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi, https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2 , https://www.youtube.com/watch?v=Ilg3gGewQ5U 
 Stochastic Gradient Descent: https://www.youtube.com/watch?v=hMLUgM6kTp8 
