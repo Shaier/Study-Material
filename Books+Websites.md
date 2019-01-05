@@ -5,11 +5,11 @@
 
 
 # Practice websites
-https://www.practicepython.org/
-https://practity.com/343-2/
-https://www.w3resource.com/python-exercises/
-https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt
-https://projecteuler.net/archives
+* https://www.practicepython.org/
+* https://practity.com/343-2/
+* https://www.w3resource.com/python-exercises/
+* https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt
+* https://projecteuler.net/archives
 
   
 # Study websites
