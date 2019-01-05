@@ -1,10 +1,10 @@
-Books
-Data_Science_from_Scratch- http://math.ecnu.edu.cn/~lfzhou/seminar/[Joel_Grus]_Data_Science_from_Scratch_First_Princ.pdf
-Introduction to Scientific Computing in Python by Robert Johansson- http://mmc.geofisica.unam.mx/femp/Herramientas/Lenguajes/Python/Learning%20Python,%205th%20Edition.pdf
-Learning Python, 5th Edition- http://www-star.st-and.ac.uk/~pw31/CompAstro/IntroToPython.pdf
+# Books
+[Data_Science_from_Scratch-](http://math.ecnu.edu.cn/~lfzhou/seminar/[Joel_Grus]_Data_Science_from_Scratch_First_Princ.pdf)
+[Introduction to Scientific Computing in Python by Robert Johansson-](http://mmc.geofisica.unam.mx/femp/Herramientas/Lenguajes/Python/Learning%20Python,%205th%20Edition.pdf)
+[Learning Python, 5th Edition-](http://www-star.st-and.ac.uk/~pw31/CompAstro/IntroToPython.pdf)
 
 
-Practice websites
+# Practice websites
 https://www.practicepython.org/
 https://practity.com/343-2/
 https://www.w3resource.com/python-exercises/
