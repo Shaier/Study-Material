@@ -13,6 +13,7 @@
 
   
 # Study websites
+* http://neuralnetworksanddeeplearning.com/chap1.html
 * 'sentdex Practical Machine Learning Tutorial with Python' series on Youtube   
 * [Python+ ML detailed explanations + examples](https://stackabuse.com/tag/python/)  
 * Gradient Descent and Cost Function- https://www.youtube.com/watch?v=XdM6ER7zTLk , https://www.youtube.com/watch?v=vsWrXfO3wWw 
