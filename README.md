@@ -1,2 +1,2 @@
-# Study-Material
-Python+DS+ML 
+# This repo contains some study material I used 
+
